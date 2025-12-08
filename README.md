@@ -1,8 +1,8 @@
 # IMDB Movie Data ETL Pipeline
 
 ## Overview
-This project is a robust data processing pipeline built with Python and Pandas. It is designed to ingest raw IMDB movie data, perform extensive cleaning, detect statistical outliers, and engineer features suitable for machine learning models.
-
+This project is a robust data processing pipeline built with Python and Pandas. 
+It's designed to ingest raw IMDB movie data, perform extensive cleaning, detect statistical outliers, and engineer features suitable for machine learning models.
 The pipeline focuses on data quality assurance, ensuring that the final dataset is free of duplicates, corruption, and extreme outliers that could skew predictive modeling.
 
 ## Features
